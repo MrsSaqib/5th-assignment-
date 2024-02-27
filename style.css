@@ -1,0 +1,87 @@
+    #top {
+        font-family: cursive;
+        font-size: 70px;
+        color: #0b7383;
+        text-align: center;
+        text-decoration: solid;
+        line-height: 5PX;
+        word-spacing: 3px;
+        text-shadow: 3px 5px 0px rgb(189, 211, 231);
+    }
+    
+    body {
+        background-color: rgb(180, 231, 250);
+    }
+    
+    .h1 {
+        font-family: cursive;
+        font-size: 25px;
+        color: #000506;
+        text-decoration: solid;
+        line-height: 3PX;
+        word-spacing: 0px;
+        text-shadow: -3px 5px 5px rgb(105, 175, 241);
+    }
+    
+    .h4 {
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 18px;
+        text-decoration: underline;
+        line-height: 0px;
+    }
+    
+    .details {
+        font-family: cursive;
+        font-size: 15px;
+        font-style: italic;
+        text-decoration: none;
+        line-height: normal;
+    }
+    
+    #contact {
+        border-style: double;
+        border-top-width: 5px;
+        border-color: rgb(68, 68, 69);
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-stretch: wider;
+        color: rgb(32, 1, 48);
+        background-color: #8fd5f9;
+    }
+    
+    .p::first-line {
+        font-size: 20px;
+        font-family: cursive;
+        text-transform: capitalize;
+    }
+    
+    .pn::first-letter {
+        font-size: 25px;
+        font-family: cursive;
+    }
+    
+    .obj::first-letter {
+        font-size: 25px;
+        font-family: cursive;
+    }
+    
+    .work {
+        border-style: double;
+    }
+    
+    a:link {
+        color: rgb(125, 8, 183);
+        text-decoration: none;
+    }
+    
+    a:visited {
+        color: rgb(250, 20, 225);
+    }
+    
+    a:hover {
+        color: rgb(32, 20, 255);
+        text-decoration: underline;
+    }
+    
+    a:active {
+        color: rgb(244, 205, 98);
+    }
